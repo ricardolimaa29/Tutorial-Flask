@@ -100,9 +100,8 @@ if __name__ == "__main__":
 
 ---
 
-# 🎯 Desafio para os alunos
+# 🎯 Desafio crie uma API de alunos
 
-Agora é a sua vez!
 
 👉 Crie uma **API de alunos** usando Flask que atenda os seguintes pontos:
 
@@ -111,7 +110,6 @@ Agora é a sua vez!
 3. Tenha um **PUT** para atualizar os dados de um aluno pelo `id`.  
 4. Tenha um **DELETE** para remover um aluno pelo `id`.  
 
-💡 Dica: copie a estrutura que fizemos com os carros e adapte para os alunos.
 
 ---
 
