@@ -114,3 +114,4 @@ if __name__ == "__main__":
 ---
 
 ✅ Pronto! Você já consegue criar APIs REST simples com Flask.
+🤖 Faça os testes da API no Postman.
